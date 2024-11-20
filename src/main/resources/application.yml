@@ -3,7 +3,7 @@ spring:
     name: security
   datasource:
     url: jdbc:postgresql://localhost:5432/jwt_security
-    username: null
+    username: seulgi
     password: null
     driver-class-name: org.postgresql.Driver  #??? ?????? ????? ??? ??
   jpa:
